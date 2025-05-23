@@ -53,16 +53,6 @@ You will also need an API key from the **Materials Project Database** to fetch p
    API_KEY = "your_api_key_here"
    ```
 
-3. Run the script to **train the VAE model**:
-   ```bash
-   python train_vae.py
-   ```
-
-4. Generate **new perovskite structures**:
-   ```bash
-   python generate_perovskites.py
-   ```
-
 ---
 
 ### **Results**
